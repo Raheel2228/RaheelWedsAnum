@@ -516,6 +516,13 @@ p.intro {
   background-position: 38% 40px !important;
 }
 }
+@media screen and (max-width: 500px){
+.footer-image-block
+{
+  background-attachment: inherit !important;
+  background-position: 49% -3.463px !important;
+}
+}
 .hs-image-block,
 .footer-image-block {
   position: absolute;
